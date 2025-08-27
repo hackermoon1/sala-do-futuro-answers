@@ -1,0 +1,26 @@
+[
+  {
+    "pergunta": "Considere que o preço inicial do celular sofreu um aumento de 14% e que, alguns dias depois, houve um novo aumento, de 6%, sobre o preço já reajustado. Calcule o percentual de aumento total que o celular sofreu em relação ao preço inicial e preencha a lacuna a seguir.",
+    "resposta_correta": [
+      "superior"
+    ]
+  },
+  {
+    "pergunta": "Sabendo que a loja está oferecendo dois descontos sucessivos sobre o preço do celular – primeiro um desconto de 20% e, em seguida, um desconto de 15% –, julgue as afirmativas a seguir e as classifique como certas ou erradas.",
+    "resposta_correta": [
+      "C) Após os dois descontos, o valor final do celular seria de R$ 1.360,00."
+    ]
+  },
+  {
+    "pergunta": "Suponha que o preço do celular sofreu três reajustes: primeiro, um aumento de 10%; depois, um aumento de 5%; e, por fim, um desconto de 12%. O percentual de variação único equivalente a essas três alterações sucessivas seria:",
+    "resposta_correta": [
+      "A) um aumento de 1,64%."
+    ]
+  },
+  {
+    "pergunta": "(CETREDE, 2016) Uma bolsa custava R$ 330,00. Ela teve dois aumentos sucessivos de 15% e 20%, respectivamente. Em seguida, ela teve um desconto de 10%. Qual o preço final dessa bolsa?",
+    "resposta_correta": [
+      "C) R$ 409,86."
+    ]
+  }
+]
