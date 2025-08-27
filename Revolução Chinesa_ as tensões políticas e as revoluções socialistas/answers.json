@@ -1,0 +1,47 @@
+{
+  "accessed_on": "room",
+  "executed_on": "75100773",
+  "answers": {
+    "271416193": {
+      "question_id": 271416193,
+      "question_type": "fill-words",
+      "answer": [
+        "Kuomintang",
+        "camponeses"
+      ]
+    },
+    "271416194": {
+      "question_id": 271416194,
+      "question_type": "multi",
+      "answer": {
+        "0": true,
+        "1": false,
+        "2": true,
+        "3": false,
+        "4": true
+      }
+    },
+    "271416195": {
+      "question_id": 271416195,
+      "question_type": "single",
+      "answer": {
+        "0": false,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": true
+      }
+    },
+    "271416196": {
+      "question_id": 271416196,
+      "question_type": "single",
+      "answer": {
+        "0": true,
+        "1": false,
+        "2": false,
+        "3": false,
+        "4": false
+      }
+    }
+  }
+}
