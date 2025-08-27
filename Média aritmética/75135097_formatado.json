@@ -1,0 +1,33 @@
+{
+  "titulo_da_tarefa": "Média aritmética",
+  "id_da_tarefa": 75135097,
+  "gabarito": [
+    {
+      "numero_da_questao": 1,
+      "pergunta": "A coluna numérica da esquerda (em fonte maior) contém as temperaturas máximas registradas para a cidade de São Paulo ao longo de uma semana. Calcule a média aritmética das temperaturas máximas registradas nesses dias e preencha a lacuna a seguir.",
+      "tipo": "fill-words",
+      "resposta_correta": "menor"
+    },
+    {
+      "numero_da_questao": 2,
+      "pergunta": "A coluna numérica da direita (em fonte menor) contém as temperaturas mínimas registradas para a cidade de São Paulo ao longo da semana. Com base na média aritmética das temperaturas mínimas registradas nesses dias, julgue as afirmativas a seguir e as classifique como certas ou erradas.",
+      "tipo": "true-false",
+      "resposta_correta": [
+        "A) A média aritmética das temperaturas mínimas dessa semana é de 14,14 °C.",
+        "C) Se a temperatura mínima do oitavo dia fosse 12 ºC, a média aritmética de temperatura dos 8 dias seria 13,87 ºC."
+      ]
+    },
+    {
+      "numero_da_questao": 3,
+      "pergunta": "Suponha que, na semana seguinte, o meteorologista registrou uma média de temperatura máxima de 23,5 °C. Ele notou, porém, que um dos registros, no valor de 28 °C, estava incorreto e, na verdade, deveria ser 21 °C. Se ele corrigir esse erro, a média correta de temperatura máxima para esses 7 seria de:",
+      "tipo": "single",
+      "resposta_correta": "D) 22,5 ºC."
+    },
+    {
+      "numero_da_questao": 4,
+      "pergunta": "(FGV, 2019) Chama-se custo médio de fabricação por unidade ao custo total de fabricação dividido pela quantidade produzida. Uma empresa fabrica bicicletas a um custo fixo mensal de R$ 90000,00 entre peças e mão de obra; cada bicicleta custa R$ 150,00 para ser produzida. A capacidade máxima de produção mensal é de 1200 unidades. O custo médio mensal mínimo por unidade vale:",
+      "tipo": "single",
+      "resposta_correta": "C) R$ 225,00."
+    }
+  ]
+}
